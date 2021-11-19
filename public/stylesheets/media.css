@@ -1,0 +1,75 @@
+@media (max-width: 1200px) {
+	
+}
+@media (max-width: 992px) {
+	.barWrapper {
+		margin-top: 30px;
+	}
+	.portfolio-content-head button{
+		padding: 5px 0;
+		font-size: 12px;
+	}
+}
+@media (max-width: 768px) {
+	section{
+		padding: 50px 0;
+	}
+	.navbar-nav1{
+		background-color: #000;
+		border-color: 1px solid #fff;
+	}
+	.barWrapper {
+    	margin-top: 52px;
+	}
+	.services {
+		height: 180vh;
+	}
+	.service-box{
+		margin-top: 30px;
+		margin-left: 0;
+	}
+	.personal-detail .detail-overlay{
+		display: none;
+	}
+	.personal-detail .detail-header .section-title{
+		color: #fff;
+	}
+	.personal-detail .detail-text{
+		color: #fff;
+	}
+	.details-heading-area{
+		margin-top: 25px;
+	}
+	.newsletter-form{
+		padding: 30px 0;
+	}
+	.newsletter-form .newsletter-email{
+		margin-bottom: 10px;
+	}
+	.contact {
+		margin-top: 30px;
+	}
+	.contact-detail{
+		margin-bottom: 20px;
+	}
+	.copyright{
+		font-size: 12px;
+	}
+	.sec-heading h2{
+		font-size: 30px;
+	}
+	.banner-icon{
+		letter-spacing: 10px;
+	}
+	/*.navbar-nav1{
+		background-color: transparent;
+	}*/
+}
+@media (max-width: 500px) {
+	.heading-main{
+		font-size: 30px;
+	}
+	.banner-overlay{
+		display: none;
+	}
+}
